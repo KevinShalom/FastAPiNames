@@ -2,7 +2,7 @@
 
 A simple FastAPI implementation to generate a list of random names.
 
-![](imagenes/captura1.png)
+![](imagenes/captura1.jpg)
 
 
 You can generate up to a maximum of 100 different names.
