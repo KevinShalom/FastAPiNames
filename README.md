@@ -2,12 +2,13 @@
 
 A simple FastAPI implementation to generate a list of random names.
 
-![](./imagenes/captura 1.jpg)
+![](imagenes/captura1.png)
+
 
 You can generate up to a maximum of 100 different names.
 
-![](./imagenes/captura 2.jpg)
+![](/imagenes/captura2.jpg)
 
 The reason why it could be achieved was thanks to the integration of the Faker library that helps us generate the random names
 
-![](./imagenes/captura 3.jpg)
+![](./imagenes/captura3.jpg)
